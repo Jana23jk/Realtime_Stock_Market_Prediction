@@ -1,0 +1,12 @@
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+trained_model.pkl
+trained_model_final.pkl
+.DS_Store

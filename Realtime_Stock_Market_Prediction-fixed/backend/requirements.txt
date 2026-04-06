@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+yfinance>=0.2.40
+numpy
+pandas
+scikit-learn
+xgboost
+nltk
+scipy
+joblib
+requests
+pymongo
+PyJWT
+bcrypt
